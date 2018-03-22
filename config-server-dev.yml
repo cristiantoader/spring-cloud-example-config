@@ -1,0 +1,3 @@
+cfg:
+  message2: specific config overrides generic application.yml
+  message3: additional message 3

@@ -1,0 +1,3 @@
+cfg:
+  message1: This is config property 1
+  message2: This is config property 2
